@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#2b3039"/><stop offset=".5" stop-color="#11151c"/><stop offset="1" stop-color="#080a0e"/></linearGradient>
+ <linearGradient id="screen" x2="0" y2="1"><stop stop-color="#252c35"/><stop offset="1" stop-color="#0c1118"/></linearGradient>
+ <linearGradient id="gold"><stop stop-color="#f8e2b3"/><stop offset="1" stop-color="#ae803d"/></linearGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="900" height="675" fill="url(#bg)"/>
+<circle cx="730" cy="135" r="220" fill="#c4d0dc" opacity=".08"/>
+<ellipse cx="445" cy="570" rx="340" ry="38" fill="#000" opacity=".6" filter="url(#shadow)"/>
+<rect x="95" y="92" width="630" height="420" rx="22" fill="#07090c" stroke="#aeb7c4" stroke-opacity=".4" stroke-width="3"/>
+<path d="M95 119q0-27 25-27h580q25 0 25 27v43H95Z" fill="#2b323d"/>
+<circle cx="128" cy="137" r="7" fill="#c77d6c"/><circle cx="151" cy="137" r="7" fill="#d7b66e"/><circle cx="174" cy="137" r="7" fill="#88a98d"/>
+<rect x="250" y="126" width="310" height="20" rx="10" fill="#151b23" stroke="#566171" stroke-opacity=".6"/>
+<rect x="120" y="180" width="580" height="300" rx="5" fill="url(#screen)"/>
+<text x="160" y="220" fill="#e9c27d" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">THE DAMAC / DIGITAL STUDIO</text>
+<text x="160" y="282" fill="#f5f1e9" font-family="Georgia,serif" font-size="43">A clearer way</text>
+<text x="160" y="330" fill="#f5f1e9" font-family="Georgia,serif" font-size="43">to stand apart.</text>
+<path d="M160 354h215" stroke="url(#gold)" stroke-width="3"/>
+<path d="M160 380h225M160 397h185" stroke="#b8c0ca" stroke-opacity=".48" stroke-width="5" stroke-linecap="round"/>
+<rect x="160" y="423" width="120" height="28" rx="14" fill="url(#gold)"/>
+<rect x="470" y="205" width="190" height="245" rx="10" fill="#303844" stroke="#d5b16f" stroke-opacity=".5"/>
+<rect x="484" y="220" width="162" height="100" rx="5" fill="#75624a"/>
+<path d="M484 303 530 252l36 32 34-47 46 63Z" fill="#d6b477" opacity=".8"/>
+<circle cx="600" cy="250" r="17" fill="#f1d8a8"/>
+<path d="M495 346h140M495 365h110M495 384h125" stroke="#dce1e8" stroke-opacity=".55" stroke-width="5" stroke-linecap="round"/>
+<rect x="760" y="235" width="88" height="220" rx="18" fill="#080a0e" stroke="#d9b36e" stroke-width="3"/>
+<rect x="770" y="254" width="68" height="180" rx="8" fill="#202833"/>
+<text x="804" y="282" text-anchor="middle" fill="#e9c27d" font-family="Arial,sans-serif" font-size="8" letter-spacing="2">DAMAC</text>
+<path d="M782 310h44M782 325h34M782 372h44M782 387h38" stroke="#e4c58c" stroke-width="4" stroke-linecap="round"/>
+<path d="M390 512v28M300 540h180" stroke="#aeb7c4" stroke-width="8" stroke-linecap="round"/>
+<text x="100" y="610" fill="#c5ad83" font-family="Arial,sans-serif" font-size="13" letter-spacing="5">DESIGNED FOR EVERY SCREEN</text>
+</svg>

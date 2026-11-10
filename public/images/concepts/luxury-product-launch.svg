@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#72542c"/><stop offset=".42" stop-color="#21190f"/><stop offset="1" stop-color="#090807"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#f2d79f" stop-opacity=".62"/><stop offset="1" stop-color="#d8a94e" stop-opacity="0"/></radialGradient>
+ <linearGradient id="gold" x2="1" y2="1"><stop stop-color="#fff0c7"/><stop offset=".45" stop-color="#d5a653"/><stop offset="1" stop-color="#80531e"/></linearGradient>
+ <linearGradient id="glass" x2="1"><stop stop-color="#fff2d2" stop-opacity=".45"/><stop offset=".38" stop-color="#b7863d" stop-opacity=".1"/><stop offset="1" stop-color="#f6dca5" stop-opacity=".3"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="34"/></filter>
+ <filter id="shadow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="900" height="675" fill="url(#bg)"/>
+<ellipse cx="250" cy="190" rx="300" ry="250" fill="url(#halo)" filter="url(#blur)"/>
+<path d="M0 530 900 430v245H0Z" fill="#080706" opacity=".82"/>
+<path d="M0 530 900 430" stroke="#e9c27d" stroke-opacity=".35"/>
+<ellipse cx="455" cy="555" rx="245" ry="45" fill="#000" opacity=".58" filter="url(#shadow)"/>
+<path d="M255 515 320 355h275l68 160Z" fill="#17120c" stroke="#b88b49" stroke-opacity=".6" stroke-width="2"/>
+<path d="M305 515 355 390h205l52 125Z" fill="#2a2116" stroke="#e0b86f" stroke-opacity=".38"/>
+<rect x="370" y="230" width="160" height="260" rx="25" fill="url(#glass)" stroke="url(#gold)" stroke-width="4"/>
+<path d="M392 250h116v218H392Z" fill="#1d1710" fill-opacity=".5"/>
+<rect x="398" y="190" width="104" height="48" rx="7" fill="#c89a4e" stroke="#f7dda4" stroke-width="3"/>
+<rect x="418" y="155" width="64" height="39" rx="5" fill="#17120c" stroke="#d6ad68" stroke-width="3"/>
+<path d="M390 290h120v128H390Z" fill="#21180f" stroke="#d8b16d" stroke-opacity=".7"/>
+<circle cx="450" cy="334" r="28" fill="none" stroke="url(#gold)" stroke-width="2.5"/>
+<path d="M418 334h64M450 302v64" stroke="#e9c27d" stroke-opacity=".72"/>
+<text x="450" y="386" text-anchor="middle" fill="#f5e5c4" font-family="Georgia,serif" font-size="22" letter-spacing="5">DAMAC</text>
+<text x="450" y="407" text-anchor="middle" fill="#d4ad6b" font-family="Arial,sans-serif" font-size="9" letter-spacing="6">MAISON</text>
+<path d="M110 120h160M110 137h95" stroke="#f0d39b" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+<circle cx="720" cy="170" r="110" fill="none" stroke="#e9c27d" stroke-opacity=".3"/>
+<circle cx="720" cy="170" r="80" fill="none" stroke="#e9c27d" stroke-opacity=".17"/>
+<path d="M675 170q45-60 90 0q-45 60-90 0Z" fill="none" stroke="#e9c27d" stroke-opacity=".5"/>
+<text x="110" y="590" fill="#d7b879" font-family="Arial,sans-serif" font-size="13" letter-spacing="5">A STUDY IN SIGNATURE LUXURY</text>
+</svg>

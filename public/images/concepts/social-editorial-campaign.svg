@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#673323"/><stop offset=".5" stop-color="#24120f"/><stop offset="1" stop-color="#090707"/></linearGradient>
+ <linearGradient id="rose" x2="1" y2="1"><stop stop-color="#d9946b"/><stop offset="1" stop-color="#54271f"/></linearGradient>
+ <linearGradient id="cream" x2="1" y2="1"><stop stop-color="#f4d9a8"/><stop offset="1" stop-color="#a97845"/></linearGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="900" height="675" fill="url(#bg)"/>
+<circle cx="170" cy="480" r="240" fill="#d57d57" opacity=".12"/>
+<ellipse cx="455" cy="565" rx="350" ry="36" fill="#000" opacity=".6" filter="url(#shadow)"/>
+<g transform="translate(85 110)">
+ <rect width="250" height="405" rx="16" fill="#090807" stroke="#d5ae70" stroke-opacity=".6" stroke-width="2"/>
+ <rect x="13" y="13" width="224" height="379" rx="9" fill="url(#rose)"/>
+ <circle cx="125" cy="145" r="84" fill="#e8b98a" opacity=".8"/>
+ <path d="M40 275q85-155 170 0v88H40Z" fill="#321c17"/>
+ <path d="M52 115q73-74 146 0" fill="none" stroke="#f5d7a7" stroke-width="3" opacity=".7"/>
+ <text x="125" y="48" text-anchor="middle" fill="#fff0d2" font-family="Arial,sans-serif" font-size="11" letter-spacing="4">EDITORIAL 01</text>
+ <text x="125" y="330" text-anchor="middle" fill="#fff0d2" font-family="Georgia,serif" font-size="25">Made to</text>
+ <text x="125" y="358" text-anchor="middle" fill="#fff0d2" font-family="Georgia,serif" font-size="25">be noticed</text>
+</g>
+<g transform="translate(375 92)">
+ <rect width="205" height="190" rx="13" fill="#1a100d" stroke="#c99b62" stroke-opacity=".65" stroke-width="2"/>
+ <rect x="12" y="12" width="181" height="166" rx="7" fill="#7e4936"/>
+ <path d="M22 152 75 55l45 70 35-48 28 75Z" fill="#e4b97e"/>
+ <circle cx="143" cy="54" r="20" fill="#f1d8aa"/>
+ <rect x="225" y="0" width="205" height="190" rx="13" fill="#1a100d" stroke="#c99b62" stroke-opacity=".65" stroke-width="2"/>
+ <rect x="237" y="12" width="181" height="166" rx="7" fill="#b46e51"/>
+ <circle cx="327" cy="70" r="44" fill="#f0c998"/>
+ <path d="M260 164q67-118 134 0" fill="#3b211b"/>
+ <rect x="0" y="215" width="205" height="190" rx="13" fill="#1a100d" stroke="#c99b62" stroke-opacity=".65" stroke-width="2"/>
+ <rect x="12" y="227" width="181" height="166" rx="7" fill="#d1a06b"/>
+ <path d="M24 365 72 265l44 62 35-42 31 80Z" fill="#68402e"/>
+ <rect x="225" y="215" width="205" height="190" rx="13" fill="#1a100d" stroke="#c99b62" stroke-opacity=".65" stroke-width="2"/>
+ <rect x="237" y="227" width="181" height="166" rx="7" fill="#2a1b18"/>
+ <path d="M264 272h128M264 292h95" stroke="#f1d8aa" stroke-width="7" stroke-linecap="round"/>
+ <text x="327" y="350" text-anchor="middle" fill="#f1d8aa" font-family="Georgia,serif" font-size="24">SOCIAL</text>
+</g>
+<path d="M85 570h730" stroke="#d7ad6d" stroke-opacity=".42"/>
+<text x="85" y="610" fill="#e6c38b" font-family="Arial,sans-serif" font-size="13" letter-spacing="5">A CONNECTED CONTENT LANGUAGE</text>
+</svg>

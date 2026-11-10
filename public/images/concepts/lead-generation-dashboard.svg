@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#253344"/><stop offset=".52" stop-color="#101722"/><stop offset="1" stop-color="#070a10"/></linearGradient>
+ <linearGradient id="gold"><stop stop-color="#f4dfb2"/><stop offset="1" stop-color="#a77b3d"/></linearGradient>
+ <linearGradient id="panel" x2="0" y2="1"><stop stop-color="#293544"/><stop offset="1" stop-color="#111a25"/></linearGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="900" height="675" fill="url(#bg)"/>
+<circle cx="745" cy="130" r="220" fill="#e9c27d" opacity=".07"/>
+<ellipse cx="455" cy="585" rx="360" ry="35" fill="#000" opacity=".6" filter="url(#shadow)"/>
+<rect x="76" y="82" width="748" height="500" rx="24" fill="url(#panel)" stroke="#b9a17b" stroke-opacity=".45" stroke-width="2"/>
+<text x="118" y="137" fill="#f2e7d0" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">GROWTH / PERFORMANCE</text>
+<circle cx="764" cy="126" r="6" fill="#e9c27d"/><text x="740" y="150" text-anchor="end" fill="#b6c1cf" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">LIVE OVERVIEW</text>
+<g>
+ <rect x="118" y="170" width="195" height="98" rx="12" fill="#0b121c" stroke="#d3ae70" stroke-opacity=".38"/>
+ <rect x="350" y="170" width="195" height="98" rx="12" fill="#0b121c" stroke="#d3ae70" stroke-opacity=".38"/>
+ <rect x="582" y="170" width="195" height="98" rx="12" fill="#0b121c" stroke="#d3ae70" stroke-opacity=".38"/>
+ <text x="142" y="205" fill="#a9b5c4" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">VISITORS</text><text x="142" y="247" fill="#f5f1e9" font-family="Arial,sans-serif" font-size="32">12.8k</text>
+ <text x="374" y="205" fill="#a9b5c4" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">ENQUIRIES</text><text x="374" y="247" fill="#f5f1e9" font-family="Arial,sans-serif" font-size="32">846</text>
+ <text x="606" y="205" fill="#a9b5c4" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">CONVERSION</text><text x="606" y="247" fill="#e9c27d" font-family="Arial,sans-serif" font-size="32">6.6%</text>
+</g>
+<rect x="118" y="300" width="410" height="230" rx="12" fill="#0b121c" stroke="#718094" stroke-opacity=".42"/>
+<text x="145" y="335" fill="#d7dfeb" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">CAMPAIGN PERFORMANCE</text>
+<path d="M150 475 205 448 260 458 315 405 370 420 425 365 495 378" fill="none" stroke="url(#gold)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M150 475 205 448 260 458 315 405 370 420 425 365 495 378v120H150Z" fill="#d6b16e" opacity=".12"/>
+<path d="M150 370h350M150 410h350M150 450h350M150 490h350" stroke="#718094" stroke-opacity=".2" stroke-dasharray="5 8"/>
+<rect x="552" y="300" width="225" height="230" rx="12" fill="#0b121c" stroke="#718094" stroke-opacity=".42"/>
+<text x="580" y="335" fill="#d7dfeb" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">LEAD JOURNEY</text>
+<path d="M590 365h150l-18 48H608Z" fill="#c99d5c"/>
+<path d="M608 424h114l-17 44h-80Z" fill="#a87c3e"/>
+<path d="M626 480h78l-13 34h-52Z" fill="#e9c27d"/>
+<circle cx="665" cy="365" r="4" fill="#fff1c9"/><circle cx="665" cy="444" r="4" fill="#fff1c9"/>
+<text x="665" y="550" text-anchor="middle" fill="#c6b18d" font-family="Arial,sans-serif" font-size="10" letter-spacing="3">DISCOVER → CONVERT</text>
+</svg>
